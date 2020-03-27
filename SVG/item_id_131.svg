@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-192,-64)">
+        <g transform="matrix(0.5,0,0,0.375,0,0)">
+            <g id="item_id_131---Cape-d-évasion" serif:id="item_id_131 - Cape d&apos;évasion" transform="matrix(2,0,0,2.66667,-640,-1877.33)">
+                <path d="M527.5,810L521,826L567,826L556,810L553,813L547.5,808L542,813L536.5,808L531,813L527.5,810ZM531,796L550,796L556,806L552.5,810L547.5,805L542,809L536.5,805L531,809L527,805L531,796ZM541,774L547,774L559,783.5L547,793L541,793L541,774Z" style="fill:rgb(168,168,168);"/>
+                <path d="M531,817L535,824L527,824L531,817ZM543.5,817L547.5,824L539.5,824L543.5,817ZM556,817L560,824L552,824L556,817ZM537.5,793C539,793 539,792 539,792L539,776C539,775 539,774 534.5,774C530,774 530,775 530,776L530,792C530,792 530,793 531,793C532,793 532,792 532,792L532,779C532,778 532,777 534,777C536,777 536,778 536,779L536,792C536,792 536,793 537.5,793Z" style="fill:rgb(253,253,253);"/>
+            </g>
+        </g>
+    </g>
+</svg>
