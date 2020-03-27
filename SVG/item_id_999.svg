@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-448,-320)">
+        <g transform="matrix(0.5,0,0,0.375,0,0)">
+            <g id="item_id_999---Capuche-d-assassin" serif:id="item_id_999 - Capuche d&apos;assassin" transform="matrix(2,0,0,2.66667,896,0)">
+                <path d="M32,370C32,370 28.875,369.875 25,366C23,364 21,362 21,360C21,358 28,350.991 28,350.991L32,355L36,350.991C36,350.991 43,358 43,360C43,362 41,364 39,366C35,370 32,370 32,370Z" style="fill:rgb(185,185,185);"/>
+                <path d="M28,349C28,349 19,356 19,362C19,368 27,378 27,378C27,378 22,376 19,373C16,370 15,367 15,367L11.5,374C11.5,374 8,368 8,366C8,364 11,363 14,358C17,353 16,351 18,339C20,327 29,326 32,326L32.071,326C35.14,326.016 44.016,327.094 46,339C48,351 47,353 50,358C53,363 56,364 56,366C56,368 52.5,374 52.5,374L49,367C49,367 48,370 45,373C42,376 37,378 37,378C37,378 45,368 45,362C45,356 36,349 36,349L32,353L28,349Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

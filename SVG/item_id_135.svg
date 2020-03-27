@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-128,-192)">
+        <g transform="matrix(0.5,0,0,0.375,0,0)">
+            <g id="item_id_135---Amplificateur-d-affinité" serif:id="item_id_135 - Amplificateur d&apos;affinité" transform="matrix(2,0,0,2.66667,128,-682.667)">
+                <path d="M84,503L86,496L104,496L107,503L84,503Z" style="fill:rgb(94,28,33);"/>
+                <g transform="matrix(1.11111,0,0,1,-10.6111,-0.5)">
+                    <path d="M100,488C100,487.448 99.597,487 99.1,487L91.9,487C91.403,487 91,487.448 91,488L91,494L100,494L100,488Z" style="fill:rgb(247,87,101);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-64,256)">
+                    <path d="M144.984,221L142.5,224L146.5,227L148.5,225L144.984,221ZM175.016,221L177.5,224L173.5,227L171.5,225L175.016,221ZM151.5,218L155.5,216L156.5,222L153.5,223L151.5,218ZM168.5,218L164.5,216L163.5,222L166.5,223L168.5,218ZM137.159,219.216L140.554,216.171L135.5,211L132.5,215L137.159,219.216ZM182.841,219.216L179.446,216.171L184.5,211L187.5,215L182.841,219.216ZM148.5,210L153.5,208L151.5,202L145.545,203L148.5,210ZM171.5,210L166.5,208L168.5,202L174.455,203L171.5,210Z" style="fill:rgb(181,62,72);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-192)">
+        <g transform="matrix(0.5,0,0,0.375,0,0)">
+            <g id="item_id_120---Amplificateur-de-vie" serif:id="item_id_120 - Amplificateur de vie" transform="matrix(2,0,0,2.66667,-128,-682.667)">
+                <path d="M84,503L86,496L104,496L107,503L84,503Z" style="fill:rgb(23,73,39);"/>
+                <g transform="matrix(1.11111,0,0,1,-10.6111,-0.5)">
+                    <path d="M100,488C100,487.448 99.597,487 99.1,487L91.9,487C91.403,487 91,487.448 91,488L91,494L100,494L100,488Z" style="fill:rgb(76,196,114);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,64,256)">
+                    <path d="M16.984,221L14.5,224L18.5,227L20.5,225L16.984,221ZM47.016,221L49.5,224L45.5,227L43.5,225L47.016,221ZM23.5,218L27.5,216L28.5,222L25.5,223L23.5,218ZM40.5,218L36.5,216L35.5,222L38.5,223L40.5,218ZM9.159,219.216L12.554,216.171L7.5,211L4.5,215L9.159,219.216ZM54.841,219.216L51.446,216.171L56.5,211L59.5,215L54.841,219.216ZM20.5,210L25.5,208L23.5,202L17.545,203L20.5,210ZM43.5,210L38.5,208L40.5,202L46.455,203L43.5,210Z" style="fill:rgb(56,148,84);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

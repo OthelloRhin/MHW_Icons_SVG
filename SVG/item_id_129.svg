@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-64,-192)">
+        <g transform="matrix(0.5,0,0,0.375,0,0)">
+            <g id="item_id_129---Purificateur" serif:id="item_id_129 - Purificateur" transform="matrix(2,0,0,2.66667,0,-682.667)">
+                <path d="M84,503L86,496L104,496L107,503L84,503Z" style="fill:rgb(31,47,105);"/>
+                <g transform="matrix(1.11111,0,0,1,-10.6111,-0.5)">
+                    <path d="M100,488C100,487.448 99.597,487 99.1,487L91.9,487C91.403,487 91,487.448 91,488L91,494L100,494L100,488Z" style="fill:rgb(91,130,255);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,256)">
+                    <path d="M80.984,221L78.5,224L82.5,227L84.5,225L80.984,221ZM111.016,221L113.5,224L109.5,227L107.5,225L111.016,221ZM87.5,218L91.5,216L92.5,222L89.5,223L87.5,218ZM104.5,218L100.5,216L99.5,222L102.5,223L104.5,218ZM73.159,219.216L76.554,216.171L71.5,211L68.5,215L73.159,219.216ZM118.841,219.216L115.446,216.171L120.5,211L123.5,215L118.841,219.216ZM84.5,210L89.5,208L87.5,202L81.545,203L84.5,210ZM107.5,210L102.5,208L104.5,202L110.455,203L107.5,210Z" style="fill:rgb(67,98,202);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
