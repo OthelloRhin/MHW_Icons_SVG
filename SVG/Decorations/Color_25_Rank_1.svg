@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-1088)">
+        <g transform="matrix(1,0,0,1,0,1088)">
+            <g id="Color_25_Rank_1" transform="matrix(1,0,0,1,-256,-256)">
+                <g id="background" transform="matrix(1,0,0,1,128,0)">
+                    <path d="M144,266L135,275L135,283L148,300L172,300L185,283L185,275L176,266L144,266Z" style="fill-opacity:0.7;"/>
+                </g>
+                <g id="color_03" transform="matrix(1,0,0,1,256,256)">
+                    <path d="M32,48.5C34,48.5 39,59 39,59L25,59C25,59 30,48.5 32,48.5ZM15,8L5,18L5,28L19,46L45,46L59,28L59,18L49,8L15,8ZM16,10L7,19L7,27L20,44L44,44L57,27L57,19L48,10L16,10ZM25,24L30,42L20,24L25,24ZM39,24L34,42L44,24L39,24ZM25,21L30,12L20,21L25,21ZM39,21L34,12L44,21L39,21Z" style="fill:rgb(171,81,48);"/>
+                </g>
+                <path id="color_02" d="M284,280L292,280L288,298L284,280Z" style="fill:rgb(219,105,64);"/>
+                <g id="color_01" transform="matrix(1,0,0,1,64,0)">
+                    <path d="M220,277L224,268L228,277L220,277Z" style="fill:rgb(231,112,68);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

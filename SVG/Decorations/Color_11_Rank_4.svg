@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-192,-640)">
+        <g transform="matrix(1,0,0,1,0,640)">
+            <g id="Color_11_Rank_4" transform="matrix(1,0,0,1,-64,-256)">
+                <g id="background" transform="matrix(1,0,0,1,128,0)">
+                    <path d="M144,266L135,275L135,283L148,300L160,306L172,300L185,283L185,275L176,266L160,262L144,266Z" style="fill-opacity:0.7;"/>
+                </g>
+                <g id="color_03" transform="matrix(1,0,0,1,64,256)">
+                    <path d="M215,49.5C217,49.5 222,60 222,60L208,60C208,60 213,49.5 215,49.5ZM233,49.5C235,49.5 240,60 240,60L226,60C226,60 231,49.5 233,49.5ZM207,8L197,18L197,28L211,46L224,52L237,46L251,28L251,18L241,8L224,4L207,8ZM203,41.5C205,41.5 210,52 210,52L196,52C196,52 201,41.5 203,41.5ZM245,41.5C247,41.5 252,52 252,52L238,52C238,52 243,41.5 245,41.5ZM208,10L199,19L199,27L212,44L224,50L236,44L249,27L249,19L240,10L224,6L208,10ZM213,42L213,23L201,23L213,42ZM235,42L235,23L247,23L235,42ZM210,12L214,19L221,12L210,12ZM238,12L234,19L227,12L238,12Z" style="fill:rgb(174,121,76);"/>
+                </g>
+                <g id="color_02" transform="matrix(1,0,0,1,-256,0)">
+                    <path d="M535,299L541,302L539,298L535,299ZM553,299L547,302L549,298L553,299ZM535,279L553,279L547,295L541,295L535,279Z" style="fill:rgb(219,154,99);"/>
+                </g>
+                <g id="color_01" transform="matrix(1,0,0,1,-256,0)">
+                    <path d="M541,297L544,303L547,297L541,297ZM539,296L535,285L535,297L539,296ZM549,296L553,285L553,297L549,296ZM528,269L533,277L521,277L528,269ZM535,277L544,268L553,277L535,277ZM560,269L555,277L567,277L560,269ZM543,267L543,264L532,267L543,267ZM545,264L556,267L545,267L545,264Z" style="fill:rgb(239,168,107);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-64,-448)">
+        <g transform="matrix(1,0,0,1,0,448)">
+            <g id="Color_07_Rank_2" transform="matrix(1,0,0,1,-192,-256)">
+                <g id="background" transform="matrix(1,0,0,1,128,0)">
+                    <path d="M144,266L135,275L135,283L148,300L172,300L185,283L185,275L176,266L144,266Z" style="fill-opacity:0.7;"/>
+                </g>
+                <g id="color_03" transform="matrix(1,0,0,1,192,256)">
+                    <path d="M78,47C80,47 85,57.5 85,57.5L71,57.5C71,57.5 76,47 78,47ZM114,47C116,47 121,57.5 121,57.5L107,57.5C107,57.5 112,47 114,47ZM79,8L69,18L69,28L83,46L109,46L123,28L123,18L113,8L79,8ZM80,10L71,19L71,27L84,44L108,44L121,27L121,19L112,10L80,10ZM85,23L94,42L79,23L85,23ZM107,23L98,42L113,23L107,23ZM87,12L87,18L93,12L87,12ZM105,12L105,18L99,12L105,12Z" style="fill:rgb(172,120,76);"/>
+                </g>
+                <path id="color_02" d="M279,279L297,279L288,298L279,279Z" style="fill:rgb(219,154,98);"/>
+                <g id="color_01" transform="matrix(1,0,0,1,64,0)">
+                    <path d="M215,277L224,268L233,277L215,277ZM213,268L213,277L207,277L213,268ZM235,268L235,277L241,277L235,268Z" style="fill:rgb(230,162,103);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
