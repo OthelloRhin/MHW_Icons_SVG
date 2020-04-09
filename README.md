@@ -1,4 +1,4 @@
-# MHW_Icons_SVG
+# MONSTER HUNTER: WORLD - SVG ICONS
 A collection of handmade icons in SVG format from MONSTER HUNTER: WORLD.
 
 ## Finished icons:
