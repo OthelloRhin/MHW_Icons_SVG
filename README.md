@@ -10,14 +10,17 @@ A collection of handmade icons in SVG format from MONSTER HUNTER: WORLD.
 
 ### Coming soon:
 #### - Hunter armor:
-- [ ] Helm.
-- [ ] Chest.
-- [ ] Arms.
-- [ ] Torso.
-- [ ] Legs.  
+- [x] Helm.
+- [x] Chest.
+- [x] Arms.
+- [x] Torso.
+- [x] Legs.
+- [ ] Charms.
+- [ ] Set.  
 
 #### - Palico:
 - [ ] Cut weapon.
 - [ ] Blunt weapon.
 - [ ] Hood.
 - [ ] Suit.
+- [ ] Set.  
