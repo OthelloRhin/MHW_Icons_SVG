@@ -7,16 +7,9 @@ A collection of handmade icons in SVG format from MONSTER HUNTER: WORLD.
 - All hunter weapons and their rank colors (1 to 12).
 - Specialized tools (mantles and boosters).
 - Traps (Pitfall & Shock).  
+- **NEW!** Hunter armor.
 
 ### Coming soon:
-#### - Hunter armor:
-- [x] Helm.
-- [x] Chest.
-- [x] Arms.
-- [x] Torso.
-- [x] Legs.
-- [ ] Charms.
-- [ ] Set.  
 
 #### - Palico:
 - [ ] Cut weapon.
